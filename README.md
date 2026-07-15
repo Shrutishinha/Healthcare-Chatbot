@@ -1,16 +1,18 @@
 <div align="center">
-  <div align="center">
+ <div align="center">
 
-# 🏥 AI Healthcare Chatbot
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AI%20Healthcare%20Chatbot&fontAlign=50&fontAlignY=35&fontSize=55&animation=fadeIn&fontColor=ffffff&desc=Intelligent%20Healthcare%20Assistant%20Powered%20by%20Python&descAlign=50&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=700&color=22C55E&center=true&vCenter=true&width=950&lines=AI-Powered+Healthcare+Assistant;Disease+Prediction+using+Symptoms;Generate+Professional+Health+Reports;Python+%7C+JSON+%7C+ReportLab"/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=🏥+AI+Healthcare+Chatbot;🤖+Symptom+Based+Disease+Prediction;📄+Automated+PDF+Health+Reports;⚡+Built+using+Python;💡+Healthcare+Meets+Artificial+Intelligence"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Healthcare-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
+<br>
+
+<img src="https://img.shields.io/github/stars/Shrutisinha/Healthcare-Chatbot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/Shrutisinha/Healthcare-Chatbot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/Shrutisinha/Healthcare-Chatbot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/Shrutisinha/Healthcare-Chatbot?style=for-the-badge"/>
 
 </div>
 # 🏥 AI Healthcare Chatbot
