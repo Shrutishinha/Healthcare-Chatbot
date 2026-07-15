@@ -1,5 +1,20 @@
 <div align="center">
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=320&section=header&text=🏥%20AI%20Healthcare%20Chatbot&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Smart%20Healthcare%20Assistant%20using%20Artificial%20Intelligence&descAlignY=58&descSize=20"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=AI-Powered+Healthcare+Companion;Disease+Prediction+from+Symptoms;Generate+Detailed+Health+Reports;Python+•+JSON+•+ReportLab;Open+Source+Healthcare+Solution"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-00C4CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Healthcare-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+</div>
 # 🏥 AI Healthcare Chatbot
 
 ### Intelligent Symptom Analysis & Health Report Generation
