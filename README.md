@@ -1,18 +1,9 @@
 <div align="center">
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=320&section=header&text=🏥%20AI%20Healthcare%20Chatbot&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Smart%20Healthcare%20Assistant%20using%20Artificial%20Intelligence&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=250&color=0:000000,100:00ff88&text=AI%20Healthcare%20Chatbot&fontColor=ffffff&fontSize=48"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=AI-Powered+Healthcare+Companion;Disease+Prediction+from+Symptoms;Generate+Detailed+Health+Reports;Python+•+JSON+•+ReportLab;Open+Source+Healthcare+Solution"/>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-00C4CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Healthcare-E91E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2000&pause=500&color=00FF7F&center=true&width=900&lines=Initializing+Healthcare+Engine...;Loading+Disease+Knowledge+Base...;Analyzing+Symptoms...;Generating+Health+Report...;System+Ready+✔"/>
 
 </div>
 # 🏥 AI Healthcare Chatbot
