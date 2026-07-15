@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2000&pause=500&color=00FF7F&center=true&width=900&lines=Initializing+Healthcare+Engine...;Loading+Disease+Knowledge+Base...;Analyzing+Symptoms...;Generating+Health+Report...;System+Ready+✔"/>
 
 </div>
-# 🏥 AI Healthcare Chatbot
+
 
 ### Intelligent Symptom Analysis & Health Report Generation
 
