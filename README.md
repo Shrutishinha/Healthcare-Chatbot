@@ -1,8 +1,16 @@
-<div align="center"><div align="center">
+<div align="center">
+  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=AI%20Healthcare%20Chatbot&fontSize=45&color=0:11998e,100:38ef7d&stroke=ffffff"/>
+# 🏥 AI Healthcare Chatbot
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38EF7D&center=true&width=900&lines=Welcome+to+the+Future+of+Healthcare;AI+%2B+Python+%2B+Automation;Symptom+Analysis+Made+Easy;Generate+Health+Reports+Instantly"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=700&color=22C55E&center=true&vCenter=true&width=950&lines=AI-Powered+Healthcare+Assistant;Disease+Prediction+using+Symptoms;Generate+Professional+Health+Reports;Python+%7C+JSON+%7C+ReportLab"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Healthcare-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
 
 </div>
 # 🏥 AI Healthcare Chatbot
