@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-
+hi
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=250&color=0:000000,100:00ff88&text=AI%20Healthcare%20Chatbot&fontColor=ffffff&fontSize=48"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2000&pause=500&color=00FF7F&center=true&width=900&lines=Initializing+Healthcare+Engine...;Loading+Disease+Knowledge+Base...;Analyzing+Symptoms...;Generating+Health+Report...;System+Ready+✔"/>
