@@ -1,6 +1,3 @@
-<div align="center">
-
-# 🩺 AI HEALTHCARE CHATBOT
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:061826,50:007C91,100:00C9A7&text=AI%20Healthcare%20Chatbot&fontColor=FFFFFF&fontSize=46&fontAlignY=40&animation=fadeIn" width="100%"/>
 
